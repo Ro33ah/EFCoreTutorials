@@ -1,0 +1,26 @@
+{
+  "version": "2.2.4-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "Microsoft.Extensions.Configuration": "2.2.0",
+    "Microsoft.Extensions.Configuration.FileExtensions": "2.2.0",
+    "Microsoft.Extensions.Configuration.Json": "2.2.0",
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "2.2.4"
+    },
+    "System.IO.FileSystem": "4.3.0",
+    "Microsoft.Extensions.Configuration.EnvironmentVariables": "2.2.0",
+    "System.Data.SqlClient": "4.6.0",
+    "FastMember": "1.1.0"
+  },
+
+  "frameworks": {
+    "netcoreapp2.2": {
+      "imports": "dnxcore50"
+    }
+  }
+} 

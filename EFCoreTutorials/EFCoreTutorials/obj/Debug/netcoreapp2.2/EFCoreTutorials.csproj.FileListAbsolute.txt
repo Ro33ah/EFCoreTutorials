@@ -9,3 +9,14 @@ C:\Users\User\Documents\Bauhaus\self_dev\C#\EFCoreTutorials\EFCoreTutorials\EFCo
 C:\Users\User\Documents\Bauhaus\self_dev\C#\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.2\EFCoreTutorials.pdb
 C:\Users\User\Documents\Bauhaus\self_dev\C#\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.dll
 C:\Users\User\Documents\Bauhaus\self_dev\C#\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.pdb
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.2\EFCoreTutorials.deps.json
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.2\EFCoreTutorials.runtimeconfig.json
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.2\EFCoreTutorials.runtimeconfig.dev.json
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.2\EFCoreTutorials.dll
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\bin\Debug\netcoreapp2.2\EFCoreTutorials.pdb
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.csprojAssemblyReference.cache
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.csproj.CoreCompileInputs.cache
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.AssemblyInfoInputs.cache
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.AssemblyInfo.cs
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.dll
+C:\Users\rosemary\Documents\Learnings\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\EFCoreTutorials\obj\Debug\netcoreapp2.2\EFCoreTutorials.pdb

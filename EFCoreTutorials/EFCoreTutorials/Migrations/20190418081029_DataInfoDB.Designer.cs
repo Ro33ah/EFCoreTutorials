@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCoreTutorials.Migrations
 {
     [DbContext(typeof(DataInfoContext))]
-    [Migration("20190417190544_DataInfoDB")]
+    [Migration("20190418081029_DataInfoDB")]
     partial class DataInfoDB
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
